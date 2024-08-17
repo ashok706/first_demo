@@ -1,2 +1,3 @@
 # first_demo
-tis is my  first gith repository
+this is my  first gith repository
+author-ashok chauhan
